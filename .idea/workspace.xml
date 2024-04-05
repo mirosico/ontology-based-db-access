@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef8a9f9e-e9ec-44f2-8cfb-2c32a61aff98" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/QueryProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/TablesManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/converters/GDBToRdfConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/converters/ODBToRdfConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/converters/RDBToRdfConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/converters/ResultSetToCSVConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/databases/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/databases/MongoDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/databases/MySQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/databases/Neo4j.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/ontology/OWLModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/ontology/OWLModelInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/ontology/RDFModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/ontology/SparqlModelExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/ui/ComponentBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/ui/Ui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/ui/connect/ConnectDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/ui/dbinfo/DBInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/ui/linkdata/LinkData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/ui/linkdata/MyTableCellEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/ui/linkdata/checkboxes/CheckListItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/ui/linkdata/checkboxes/CheckListRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/ui/query/ExportButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/ui/query/QueryMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/ui/query/QueryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/ui/query/ResultsTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ontology_based_db_access/ui/query/TablesData.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2NvfyyViMiJFJLXLnU7dHvVU2Nk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/yuriim/Desktop/hz/course/coursework",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.org.example.ontology_based_db_access.App">
+    <configuration name="ITSpecialistOntologyCreator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ontology_based_db_access.ITSpecialistOntologyCreator" />
+      <module name="coursework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.ontology_based_db_access.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Neo4j" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ontology_based_db_access.databases.Neo4j" />
+      <module name="coursework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.ontology_based_db_access.databases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ui.Ui" />
+      <module name="coursework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.ui.connect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.ontology_based_db_access.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ontology_based_db_access.App" />
+      <module name="coursework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.ontology_based_db_access.databases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.ontology_based_db_access.ui.Ui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ontology_based_db_access.ui.Ui" />
+      <module name="coursework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.ontology_based_db_access.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.org.example.ontology_based_db_access.App" />
+        <item itemvalue="Application.org.example.ontology_based_db_access.ui.Ui" />
+        <item itemvalue="Application.ITSpecialistOntologyCreator" />
+        <item itemvalue="Application.Neo4j" />
+        <item itemvalue="Application.Ui" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef8a9f9e-e9ec-44f2-8cfb-2c32a61aff98" name="Changes" comment="" />
+      <created>1680549737235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680549737235</updated>
+      <workItem from="1680549738331" duration="2400000" />
+      <workItem from="1680552247233" duration="4837000" />
+      <workItem from="1681234976816" duration="273903000" />
+      <workItem from="1683883567727" duration="4316000" />
+      <workItem from="1684064032801" duration="49000" />
+      <workItem from="1684064125226" duration="1359000" />
+      <workItem from="1684996356595" duration="614000" />
+      <workItem from="1712344150308" duration="154000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
